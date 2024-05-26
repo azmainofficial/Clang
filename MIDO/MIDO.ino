@@ -14,11 +14,11 @@ WiFiClient client;
 
 
 
-const char* UBIDOTS_TOKEN = "BBUS-RS0FXYOcrGnrUKqHL4agmsEWS1JUoS"; 
-const char* ssid = "_AZMAIN_OFFICIAL_";
-const char* password = "ABBU AMMU SUMAIYA RUBAYED";
+const char* UBIDOTS_TOKEN = ""; 
+const char* ssid = "";
+const char* password = "";
  
-const char* serverName = "http://mystrix.site/azmain//post-data.php";
+const char* serverName = "";
  
 String apiKeyValue = "#54321";
 
